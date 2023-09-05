@@ -3,7 +3,7 @@
 
 - 🔭 Análise feita em Power Bi [Atendimentos feitos em um Hospital](https://app.powerbi.com/view?r=eyJrIjoiNTMwNzQ3ZTAtM2U2MS00ODdhLWFkNmItNWUxZjM3NzkxNmRhIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
 - 🔭 Análise feita em Power Bi [Dashboad de RH](https://app.powerbi.com/view?r=eyJrIjoiNTM0MjYwNDQtN2M0Ni00YWQxLTg5OWItZDUxNWM1ODEzMjRmIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
-
+- Projeto de vendas Puxando um arquivo xls de uma pasta do google drive e fazendo ánalise das vendas no python ultilizando algumas bibliotecas https://colab.research.google.com/gist/Bruno-Merino/820414e300c3fe7cf88f9eab6f43cf39/treinamento-python.ipynb 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
 - 📝Eu mostro algumas coisas que faço [https://sites.google.com/view/portifolio-bruno-merino/in%C3%ADcio](https://sites.google.com/view/portifolio-bruno-merino/in%C3%ADcio)
