@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Bruno Merino</h1>
-<h3 align="center">Apaixonado por Ciência e Análise de dados no mundo Digital</h3>
+<h3 align="center">Apaixonado por Ciência e Análise de dados no mundo Digital, sempre busco resultados e sou muito colaborativo</h3>
 
 - 🔭 Análise feita em Power Bi [Atendimentos feitos em um Hospital](https://app.powerbi.com/view?r=eyJrIjoiNTMwNzQ3ZTAtM2U2MS00ODdhLWFkNmItNWUxZjM3NzkxNmRhIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
 - 🔭 Análise feita em Power Bi [Dashboad de RH](https://app.powerbi.com/view?r=eyJrIjoiNTM0MjYwNDQtN2M0Ni00YWQxLTg5OWItZDUxNWM1ODEzMjRmIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
