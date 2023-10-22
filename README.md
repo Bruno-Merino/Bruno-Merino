@@ -1,6 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Bruno Merino</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de dados no mundo Digital, sempre busco resultados e sou muito colaborativo</h3>
 
+- 🔭 Análise feita em Power Bi [Dashboard de Melhorias feitas em 2 empresas do mesmo grupo comparativos ](https://app.powerbi.com/view?r=eyJrIjoiZmQzODU1ZjUtMzU5MS00YTY1LTk2NTQtNmIyYzdkZjA0NzhlIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
 - 🔭 Análise feita em Power Bi [Atendimentos feitos em um Hospital](https://app.powerbi.com/view?r=eyJrIjoiNTMwNzQ3ZTAtM2U2MS00ODdhLWFkNmItNWUxZjM3NzkxNmRhIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
 - 🔭 Análise feita em Power Bi [Dashboad de RH](https://app.powerbi.com/view?r=eyJrIjoiNTM0MjYwNDQtN2M0Ni00YWQxLTg5OWItZDUxNWM1ODEzMjRmIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
 - Projeto de vendas Puxando um arquivo xls de uma pasta do google drive e fazendo ánalise das vendas no python ultilizando algumas bibliotecas https://colab.research.google.com/gist/Bruno-Merino/820414e300c3fe7cf88f9eab6f43cf39/treinamento-python.ipynb 
