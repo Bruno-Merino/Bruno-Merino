@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Bruno Merino</h1>
 <h3 align="center">Apaixonado por Ciência e Análise de dados no mundo Digital, sempre busco resultados e sou muito colaborativo</h3>
 -   Score de Clientes, criando uma IA e treinado ela para definir score de clientes, analisando mais 3 novos clientes pra saber a Score deles https://colab.research.google.com/drive/1k_6OyB23QDkuKlUoXwSOPKguCqSxrIRcusp=drive_link
-- Projeto de Análise de Dados mais automação ou RPA criando onde enviamos por e-mail dois calculos feitos na Análise de dados apenas com o comandinho python https://colab.research.google.com/drive/1dy9-E0vmQ7Fyx8mDbs0Kd22oacnUXYxr#scrollTo=OGcaM8iz5t6si
+-   Projeto de Análise de Dados mais automação ou RPA criando onde enviamos por e-mail dois calculos feitos na Análise de dados apenas com o comandinho python https://colab.research.google.com/drive/1dy9-E0vmQ7Fyx8mDbs0Kd22oacnUXYxr#scrollTo=OGcaM8iz5t6si
 -   Análise feita em Power Bi [Dashboard de Manutenção com alguns KPIS usados na área de Manutenção](https://app.powerbi.com/view?r=eyJrIjoiYmVhYmQyNmItYzJkMS00Y2VjLWFmNmEtYTgwZDA0MDUzMDBmIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
 - 🔭 Análise feita em Power Bi [Dashboard de Melhorias feitas em 2 empresas do mesmo grupo comparativos ](https://app.powerbi.com/view?r=eyJrIjoiZmQzODU1ZjUtMzU5MS00YTY1LTk2NTQtNmIyYzdkZjA0NzhlIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
 - 🔭 Análise feita em Power Bi [Atendimentos feitos em um Hospital](https://app.powerbi.com/view?r=eyJrIjoiNTMwNzQ3ZTAtM2U2MS00ODdhLWFkNmItNWUxZjM3NzkxNmRhIiwidCI6IjZkNjAyZGZmLTRlZTctNDc1YS1hNmI1LTQ3ZDEwZTY3MTUwYSJ9)
